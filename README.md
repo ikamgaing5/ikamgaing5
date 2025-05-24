@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/georgesdumont/georgesdumont/raw/main/profile-picture.jpg" alt="Photo de profil" width="150" style="border-radius:50%;" />
+  <img src="https://github.com/ikamgaing5/ikamgaing5/raw/main/profile-picture.jpg" alt="Photo de profil" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👋 Bonjour, je suis POUEMEUGNE KAMGAING IVAN VADES</h1>
@@ -36,22 +36,22 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
 
 **Backend**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30"/>  
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="30"/>  ](https://laravel.com/)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/>  
+  <a href="https://php.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30"/>  </a>
+  <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="30"/></a>
+  <a href="https://mysql"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/></a>  
 </p>
 
 **Frontend**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>  
+  <a href="https://html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/></a> 
+  <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30"/></a>
+  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/></a>
 </p>
 
 **DevOps & Containers**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/></a>  
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/></a>
 </p>
 
 ---
