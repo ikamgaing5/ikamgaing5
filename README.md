@@ -24,7 +24,7 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
 - ✔️ **HTML5**, **CSS3**, **JavaScript (ES6+)**  
 - ✔️ **Docker** (Images, Volumes, Réseaux)  
 - ✔️ **Git** & **GitHub** (PR, Branching, CI/CD)  
-- ✔️ **Python** (Certification Sololearn)
+- ✔️ **Python Developer** (Certification Sololearn)
 
 ---
 
@@ -54,8 +54,8 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
 
 ## 📜 Certifications
 
-- 🥇 **Sololearn – Python (Certification complète)**  
-- 🥈 **Sololearn – SQL (Niveau intermédiaire)**  
+- 🥇 <a href="https://www.sololearn.com/certificates/CC-3KFLX79W">**Sololearn – Python Developer**</a>  
+- 🥈 <a href="https://www.sololearn.com/certificates/CC-IX6W2C3W">**Sololearn – SQL (Niveau intermédiaire)** </a> 
 
 ---
 
