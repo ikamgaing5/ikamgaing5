@@ -32,30 +32,30 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
 
 **Backend**  
 <p>
-  <a href="https://php.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30"/>  </a>
-  <a href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30"/></a>
-  <a href="https://mysql"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/></a>  
+  <a target="blank" href="https://php.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30"/>  </a>
+  <a target="blank" href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30"/></a>
+  <a target="blank" href="https://mysql"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/></a>  
 </p>
 
 **Frontend**  
 <p>
-  <a href="https://html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/></a> 
-  <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30"/></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/></a>
+  <a target="blank" href="https://html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/></a> 
+  <a target="blank" href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30"/></a>
+  <a target="blank" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/></a>
 </p>
 
 **DevOps & Containers**  
 <p>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/></a>  
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/></a>
+  <a target="blank" href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/></a>  
+  <a target="blank" href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/></a>
 </p>
 
 ---
 
 ## 📜 Certifications
 
-- 🥇 <a href="https://www.sololearn.com/certificates/CC-3KFLX79W">**Sololearn – Python Developer**</a>  
-- 🥈 <a href="https://www.sololearn.com/certificates/CC-IX6W2C3W">**Sololearn – SQL (Niveau intermédiaire)** </a> 
+- 🥇 <a target="blank" href="https://www.sololearn.com/certificates/CC-3KFLX79W">**Sololearn – Python Developer**</a>  
+- 🥈 <a target="blank" href="https://www.sololearn.com/certificates/CC-IX6W2C3W">**Sololearn – SQL (Niveau intermédiaire)** </a> 
 
 ---
 
