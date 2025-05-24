@@ -34,7 +34,6 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
 <p>
   <a target="blank" href="https://php.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30"/>  </a>
   <a target="blank" href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30"/></a>
-  <a target="blank" href="https://mysql"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/></a>  
 </p>
 
 **Frontend**  
@@ -42,6 +41,11 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
   <a target="blank" href="https://html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/></a> 
   <a target="blank" href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30"/></a>
   <a target="blank" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/></a>
+</p>
+
+**Base de données**
+<p>
+  <a target="blank" href="https://mysql"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/></a>  
 </p>
 
 **DevOps & Containers**  
