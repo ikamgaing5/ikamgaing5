@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ikamgaing5/ikamgaing5/raw/main/profile-picture.jpg" alt="Photo de profil" width="150" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">👋 Bonjour, je suis POUEMEUGNE KAMGAING IVAN VADES</h1>
 <p align="center">
   🛠 Développeur Web Full-Stack | PHP & Laravel | Docker | MySQL | HTML/CSS/JS
