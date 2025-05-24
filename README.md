@@ -33,7 +33,7 @@ J’utilise **Docker** pour containeriser mes applications et garantir une cohé
 **Backend**  
 <p>
   <a href="https://php.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30"/>  </a>
-  <a href="https://laravel.com/"><img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="Laravel" width="30"/></a>
+  <a href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30"/></a>
   <a href="https://mysql"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/></a>  
 </p>
 
