@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bonjour, je suis POUEMEUGNE KAMGAING IVAN VADES</h1>
 <p align="center">
-  🛠 Développeur Web Full-Stack | PHP & Laravel | Docker | MySQL | HTML/CSS/JS
+  🛠 Etudiant Génie Logiciel | PHP & Laravel | Docker | MySQL | HTML/CSS/JS
 </p>
 <p align="center">
   📍 DOUALA, CAMEROUN &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Disponible en télétravail
